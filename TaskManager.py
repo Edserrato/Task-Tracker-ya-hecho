@@ -35,7 +35,7 @@ class TaskManager:
         text = text.strip()
         
         if not text:
-            raise ValueError("Text cannot be empty or just spaces")
+            raise ValueError("text cannot be empty.")
         return text
       
     #innit

@@ -23,4 +23,3 @@ class Database:
         self.conn.commit()
         
 
-#Este es un comentario para mostrar la funcionalidad de pull en git
