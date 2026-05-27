@@ -22,4 +22,4 @@ class Database:
         
         self.conn.commit()
         
-   #Este es un comentario temporal para enseñar pull
+
